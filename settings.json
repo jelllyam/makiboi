@@ -1,7 +1,7 @@
 {
-        "server": "",
-        "creator": "t.me/nimalsu",
-        "channel":"Makibee",
+        "post": False,
+        "tip": False,
+        "tip_limit": 0.01,
         "keyslink":"https://fc.lc/keys",
         "key":"151884097530610344088767"
 }
