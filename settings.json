@@ -1,6 +1,6 @@
 {
-        "post": False,
-        "tip": False,
+        "post": "no",
+        "tip": "no",
         "tip_limit": 0.01,
         "keyslink":"https://fc.lc/keys",
         "key":"151884097530610344088767"
