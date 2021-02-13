@@ -1,7 +1,7 @@
 {
-        "post": "yes",
-        "tip": "yes",
-        "tip_limit": 0.01,
+        "post": "no",
+        "tip": "no",
+        "tip_limit": 0.2,
         "post_seconds": 3600,
         "keyslink":"https://fc.lc/keys",
         "key":"15188407530610344088767"
