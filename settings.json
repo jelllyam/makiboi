@@ -1,5 +1,5 @@
 {
-        "post": "no",
+        "post": "yes",
         "tip": "yes",
         "tip_limit": 0.02,
         "post_seconds": 3600,
