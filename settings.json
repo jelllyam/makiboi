@@ -1,6 +1,6 @@
 {
         "post": "no",
-        "re": "yes",
+        "re": "no",
         "tip": "no",
         "tip_limit": 0,
         "post_seconds": 3600,
