@@ -2,7 +2,7 @@
         "post": "yes",
         "re": "yes",
         "tip": "yes",
-        "tip_limit": 0.2,
+        "tip_limit": 0.00,
         "post_seconds": 3600,
         "re_seconds": 3600,
         "keyslink":"https://fc.lc/keys",
